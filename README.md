@@ -25,6 +25,7 @@
 
 <div align="center">
 
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/iamtherealmaultes)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@LOLITEMAULTES)
 [![Website](https://img.shields.io/badge/LOLITEMAULTES-E8CF6C?style=for-the-badge&logoColor=white)](https://lolitemaultes.online/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lolitemaultes)
