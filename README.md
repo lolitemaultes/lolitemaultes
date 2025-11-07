@@ -17,14 +17,6 @@
 
 <div align="center">
 
-<img width="800em" src="https://github-readme-streak-stats.herokuapp.com/?user=lolitemaultes&theme=dark&hide_border=true&background=0D1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
-
-</div>
-
----
-
-<div align="center">
-
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/iamtherealmaultes)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@LOLITEMAULTES)
 [![Website](https://img.shields.io/badge/LOLITEMAULTES-E8CF6C?style=for-the-badge&logoColor=white)](https://lolitemaultes.online/)
